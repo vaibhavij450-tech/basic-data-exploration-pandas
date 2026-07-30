@@ -27,3 +27,6 @@ Perform incremental data processing using Delta Lake.
 - delta_scd_assignment.ipynb
 - README.md
 - Screenshots
+## Note
+
+The customer_master and customer_incremental datasets were created directly within the Databricks notebook using PySpark DataFrames for demonstration purposes. Therefore, separate CSV files are not included.
